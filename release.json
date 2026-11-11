@@ -2,7 +2,7 @@
   "game": "NIGHT CIRCUIT",
   "generated_assets": true,
   "base": "/night-circuit/",
-  "source_commit": "fedb45c5811f6b4a037ade32b86cc44768d8f568",
+  "source_commit": "e8e27bb22d954e95491eb7f1ba1f26734ce209d0",
   "visual_review": "raggiunto",
   "reviewer": "Claude Code locale / claude-opus-5-5",
   "hero_sha256": "08bb1dc8974f56b3ed6a5c6e0702cdd3979e08bb90e6b854789932460e5cf674"
